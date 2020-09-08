@@ -1,2 +1,2 @@
 # Photonics
-Research papers i wrote related to photonics
+Research papers i wrote or worked on related to photonics
